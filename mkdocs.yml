@@ -1,6 +1,5 @@
 site_name: MenuEngine
 pages:
-- Heapster Overview: index.md
-- Model: model.md
-- Source Configuration: source-configuration.md
+- 3button Menu: 3button.md
+- index: index.md
 theme: readthedocs
